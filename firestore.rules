@@ -1,0 +1,22 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Cada usuário só pode ler e escrever o PRÓPRIO documento de inventário.
+    // Isso impede que alguém leia ou edite a coleção/repetidas de outra pessoa
+    // mesmo conhecendo o uid dela.
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Opcional: só necessário se você migrar o catálogo mestre para o
+    // Firestore (veja scripts/seed-firestore.mjs). Leitura liberada para
+    // qualquer usuário autenticado; escrita bloqueada no cliente (só via
+    // Admin SDK/console, que ignora estas regras).
+    match /stickers/{stickerId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+  }
+}

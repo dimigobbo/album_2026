@@ -1,0 +1,8840 @@
+[
+  {
+    "id": "MEX_01",
+    "number": 1,
+    "name": "México #01",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_02",
+    "number": 2,
+    "name": "México #02",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_03",
+    "number": 3,
+    "name": "México #03",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_04",
+    "number": 4,
+    "name": "México #04",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_05",
+    "number": 5,
+    "name": "México #05",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_06",
+    "number": 6,
+    "name": "México #06",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_07",
+    "number": 7,
+    "name": "México #07",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_08",
+    "number": 8,
+    "name": "México #08",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_09",
+    "number": 9,
+    "name": "México #09",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_10",
+    "number": 10,
+    "name": "México #10",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_11",
+    "number": 11,
+    "name": "México #11",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_12",
+    "number": 12,
+    "name": "México #12",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_13",
+    "number": 13,
+    "name": "México #13",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_14",
+    "number": 14,
+    "name": "México #14",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_15",
+    "number": 15,
+    "name": "México #15",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_16",
+    "number": 16,
+    "name": "México #16",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_17",
+    "number": 17,
+    "name": "México #17",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_18",
+    "number": 18,
+    "name": "México #18",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_19",
+    "number": 19,
+    "name": "México #19",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "MEX_20",
+    "number": 20,
+    "name": "México #20",
+    "team": "México",
+    "abbreviation": "MEX",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_01",
+    "number": 1,
+    "name": "Coreia do Sul #01",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_02",
+    "number": 2,
+    "name": "Coreia do Sul #02",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_03",
+    "number": 3,
+    "name": "Coreia do Sul #03",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_04",
+    "number": 4,
+    "name": "Coreia do Sul #04",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_05",
+    "number": 5,
+    "name": "Coreia do Sul #05",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_06",
+    "number": 6,
+    "name": "Coreia do Sul #06",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_07",
+    "number": 7,
+    "name": "Coreia do Sul #07",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_08",
+    "number": 8,
+    "name": "Coreia do Sul #08",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_09",
+    "number": 9,
+    "name": "Coreia do Sul #09",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_10",
+    "number": 10,
+    "name": "Coreia do Sul #10",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_11",
+    "number": 11,
+    "name": "Coreia do Sul #11",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_12",
+    "number": 12,
+    "name": "Coreia do Sul #12",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_13",
+    "number": 13,
+    "name": "Coreia do Sul #13",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_14",
+    "number": 14,
+    "name": "Coreia do Sul #14",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_15",
+    "number": 15,
+    "name": "Coreia do Sul #15",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_16",
+    "number": 16,
+    "name": "Coreia do Sul #16",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_17",
+    "number": 17,
+    "name": "Coreia do Sul #17",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_18",
+    "number": 18,
+    "name": "Coreia do Sul #18",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_19",
+    "number": 19,
+    "name": "Coreia do Sul #19",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "KOR_20",
+    "number": 20,
+    "name": "Coreia do Sul #20",
+    "team": "Coreia do Sul",
+    "abbreviation": "KOR",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_01",
+    "number": 1,
+    "name": "África do Sul #01",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_02",
+    "number": 2,
+    "name": "África do Sul #02",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_03",
+    "number": 3,
+    "name": "África do Sul #03",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_04",
+    "number": 4,
+    "name": "África do Sul #04",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_05",
+    "number": 5,
+    "name": "África do Sul #05",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_06",
+    "number": 6,
+    "name": "África do Sul #06",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_07",
+    "number": 7,
+    "name": "África do Sul #07",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_08",
+    "number": 8,
+    "name": "África do Sul #08",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_09",
+    "number": 9,
+    "name": "África do Sul #09",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_10",
+    "number": 10,
+    "name": "África do Sul #10",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_11",
+    "number": 11,
+    "name": "África do Sul #11",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_12",
+    "number": 12,
+    "name": "África do Sul #12",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_13",
+    "number": 13,
+    "name": "África do Sul #13",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_14",
+    "number": 14,
+    "name": "África do Sul #14",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_15",
+    "number": 15,
+    "name": "África do Sul #15",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_16",
+    "number": 16,
+    "name": "África do Sul #16",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_17",
+    "number": 17,
+    "name": "África do Sul #17",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_18",
+    "number": 18,
+    "name": "África do Sul #18",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_19",
+    "number": 19,
+    "name": "África do Sul #19",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "RSA_20",
+    "number": 20,
+    "name": "África do Sul #20",
+    "team": "África do Sul",
+    "abbreviation": "RSA",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_01",
+    "number": 1,
+    "name": "Tchéquia #01",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_02",
+    "number": 2,
+    "name": "Tchéquia #02",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_03",
+    "number": 3,
+    "name": "Tchéquia #03",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_04",
+    "number": 4,
+    "name": "Tchéquia #04",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_05",
+    "number": 5,
+    "name": "Tchéquia #05",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_06",
+    "number": 6,
+    "name": "Tchéquia #06",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_07",
+    "number": 7,
+    "name": "Tchéquia #07",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_08",
+    "number": 8,
+    "name": "Tchéquia #08",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_09",
+    "number": 9,
+    "name": "Tchéquia #09",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_10",
+    "number": 10,
+    "name": "Tchéquia #10",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_11",
+    "number": 11,
+    "name": "Tchéquia #11",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_12",
+    "number": 12,
+    "name": "Tchéquia #12",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_13",
+    "number": 13,
+    "name": "Tchéquia #13",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_14",
+    "number": 14,
+    "name": "Tchéquia #14",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_15",
+    "number": 15,
+    "name": "Tchéquia #15",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_16",
+    "number": 16,
+    "name": "Tchéquia #16",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_17",
+    "number": 17,
+    "name": "Tchéquia #17",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_18",
+    "number": 18,
+    "name": "Tchéquia #18",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_19",
+    "number": 19,
+    "name": "Tchéquia #19",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CZE_20",
+    "number": 20,
+    "name": "Tchéquia #20",
+    "team": "Tchéquia",
+    "abbreviation": "CZE",
+    "group": "A",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_01",
+    "number": 1,
+    "name": "Canadá #01",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_02",
+    "number": 2,
+    "name": "Canadá #02",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_03",
+    "number": 3,
+    "name": "Canadá #03",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_04",
+    "number": 4,
+    "name": "Canadá #04",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_05",
+    "number": 5,
+    "name": "Canadá #05",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_06",
+    "number": 6,
+    "name": "Canadá #06",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_07",
+    "number": 7,
+    "name": "Canadá #07",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_08",
+    "number": 8,
+    "name": "Canadá #08",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_09",
+    "number": 9,
+    "name": "Canadá #09",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_10",
+    "number": 10,
+    "name": "Canadá #10",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_11",
+    "number": 11,
+    "name": "Canadá #11",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_12",
+    "number": 12,
+    "name": "Canadá #12",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_13",
+    "number": 13,
+    "name": "Canadá #13",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_14",
+    "number": 14,
+    "name": "Canadá #14",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_15",
+    "number": 15,
+    "name": "Canadá #15",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_16",
+    "number": 16,
+    "name": "Canadá #16",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_17",
+    "number": 17,
+    "name": "Canadá #17",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_18",
+    "number": 18,
+    "name": "Canadá #18",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_19",
+    "number": 19,
+    "name": "Canadá #19",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "CAN_20",
+    "number": 20,
+    "name": "Canadá #20",
+    "team": "Canadá",
+    "abbreviation": "CAN",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_01",
+    "number": 1,
+    "name": "Suíça #01",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_02",
+    "number": 2,
+    "name": "Suíça #02",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_03",
+    "number": 3,
+    "name": "Suíça #03",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_04",
+    "number": 4,
+    "name": "Suíça #04",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_05",
+    "number": 5,
+    "name": "Suíça #05",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_06",
+    "number": 6,
+    "name": "Suíça #06",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_07",
+    "number": 7,
+    "name": "Suíça #07",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_08",
+    "number": 8,
+    "name": "Suíça #08",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_09",
+    "number": 9,
+    "name": "Suíça #09",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_10",
+    "number": 10,
+    "name": "Suíça #10",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_11",
+    "number": 11,
+    "name": "Suíça #11",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_12",
+    "number": 12,
+    "name": "Suíça #12",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_13",
+    "number": 13,
+    "name": "Suíça #13",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_14",
+    "number": 14,
+    "name": "Suíça #14",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_15",
+    "number": 15,
+    "name": "Suíça #15",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_16",
+    "number": 16,
+    "name": "Suíça #16",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_17",
+    "number": 17,
+    "name": "Suíça #17",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_18",
+    "number": 18,
+    "name": "Suíça #18",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_19",
+    "number": 19,
+    "name": "Suíça #19",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "SUI_20",
+    "number": 20,
+    "name": "Suíça #20",
+    "team": "Suíça",
+    "abbreviation": "SUI",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_01",
+    "number": 1,
+    "name": "Catar #01",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_02",
+    "number": 2,
+    "name": "Catar #02",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_03",
+    "number": 3,
+    "name": "Catar #03",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_04",
+    "number": 4,
+    "name": "Catar #04",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_05",
+    "number": 5,
+    "name": "Catar #05",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_06",
+    "number": 6,
+    "name": "Catar #06",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_07",
+    "number": 7,
+    "name": "Catar #07",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_08",
+    "number": 8,
+    "name": "Catar #08",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_09",
+    "number": 9,
+    "name": "Catar #09",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_10",
+    "number": 10,
+    "name": "Catar #10",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_11",
+    "number": 11,
+    "name": "Catar #11",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_12",
+    "number": 12,
+    "name": "Catar #12",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_13",
+    "number": 13,
+    "name": "Catar #13",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_14",
+    "number": 14,
+    "name": "Catar #14",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_15",
+    "number": 15,
+    "name": "Catar #15",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_16",
+    "number": 16,
+    "name": "Catar #16",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_17",
+    "number": 17,
+    "name": "Catar #17",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_18",
+    "number": 18,
+    "name": "Catar #18",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_19",
+    "number": 19,
+    "name": "Catar #19",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "QAT_20",
+    "number": 20,
+    "name": "Catar #20",
+    "team": "Catar",
+    "abbreviation": "QAT",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_01",
+    "number": 1,
+    "name": "Bósnia e Herzegovina #01",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_02",
+    "number": 2,
+    "name": "Bósnia e Herzegovina #02",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_03",
+    "number": 3,
+    "name": "Bósnia e Herzegovina #03",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_04",
+    "number": 4,
+    "name": "Bósnia e Herzegovina #04",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_05",
+    "number": 5,
+    "name": "Bósnia e Herzegovina #05",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_06",
+    "number": 6,
+    "name": "Bósnia e Herzegovina #06",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_07",
+    "number": 7,
+    "name": "Bósnia e Herzegovina #07",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_08",
+    "number": 8,
+    "name": "Bósnia e Herzegovina #08",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_09",
+    "number": 9,
+    "name": "Bósnia e Herzegovina #09",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_10",
+    "number": 10,
+    "name": "Bósnia e Herzegovina #10",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_11",
+    "number": 11,
+    "name": "Bósnia e Herzegovina #11",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_12",
+    "number": 12,
+    "name": "Bósnia e Herzegovina #12",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_13",
+    "number": 13,
+    "name": "Bósnia e Herzegovina #13",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_14",
+    "number": 14,
+    "name": "Bósnia e Herzegovina #14",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_15",
+    "number": 15,
+    "name": "Bósnia e Herzegovina #15",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_16",
+    "number": 16,
+    "name": "Bósnia e Herzegovina #16",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_17",
+    "number": 17,
+    "name": "Bósnia e Herzegovina #17",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_18",
+    "number": 18,
+    "name": "Bósnia e Herzegovina #18",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_19",
+    "number": 19,
+    "name": "Bósnia e Herzegovina #19",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BIH_20",
+    "number": 20,
+    "name": "Bósnia e Herzegovina #20",
+    "team": "Bósnia e Herzegovina",
+    "abbreviation": "BIH",
+    "group": "B",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_01",
+    "number": 1,
+    "name": "Brasil #01",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_02",
+    "number": 2,
+    "name": "Brasil #02",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_03",
+    "number": 3,
+    "name": "Brasil #03",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_04",
+    "number": 4,
+    "name": "Brasil #04",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_05",
+    "number": 5,
+    "name": "Brasil #05",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_06",
+    "number": 6,
+    "name": "Brasil #06",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_07",
+    "number": 7,
+    "name": "Brasil #07",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_08",
+    "number": 8,
+    "name": "Brasil #08",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_09",
+    "number": 9,
+    "name": "Brasil #09",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_10",
+    "number": 10,
+    "name": "Brasil #10",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_11",
+    "number": 11,
+    "name": "Brasil #11",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_12",
+    "number": 12,
+    "name": "Brasil #12",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_13",
+    "number": 13,
+    "name": "Brasil #13",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_14",
+    "number": 14,
+    "name": "Brasil #14",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_15",
+    "number": 15,
+    "name": "Brasil #15",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_16",
+    "number": 16,
+    "name": "Brasil #16",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_17",
+    "number": 17,
+    "name": "Brasil #17",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_18",
+    "number": 18,
+    "name": "Brasil #18",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_19",
+    "number": 19,
+    "name": "Brasil #19",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "BRA_20",
+    "number": 20,
+    "name": "Brasil #20",
+    "team": "Brasil",
+    "abbreviation": "BRA",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_01",
+    "number": 1,
+    "name": "Marrocos #01",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_02",
+    "number": 2,
+    "name": "Marrocos #02",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_03",
+    "number": 3,
+    "name": "Marrocos #03",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_04",
+    "number": 4,
+    "name": "Marrocos #04",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_05",
+    "number": 5,
+    "name": "Marrocos #05",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_06",
+    "number": 6,
+    "name": "Marrocos #06",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_07",
+    "number": 7,
+    "name": "Marrocos #07",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_08",
+    "number": 8,
+    "name": "Marrocos #08",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_09",
+    "number": 9,
+    "name": "Marrocos #09",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_10",
+    "number": 10,
+    "name": "Marrocos #10",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_11",
+    "number": 11,
+    "name": "Marrocos #11",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_12",
+    "number": 12,
+    "name": "Marrocos #12",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_13",
+    "number": 13,
+    "name": "Marrocos #13",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_14",
+    "number": 14,
+    "name": "Marrocos #14",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_15",
+    "number": 15,
+    "name": "Marrocos #15",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_16",
+    "number": 16,
+    "name": "Marrocos #16",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_17",
+    "number": 17,
+    "name": "Marrocos #17",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_18",
+    "number": 18,
+    "name": "Marrocos #18",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_19",
+    "number": 19,
+    "name": "Marrocos #19",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "MAR_20",
+    "number": 20,
+    "name": "Marrocos #20",
+    "team": "Marrocos",
+    "abbreviation": "MAR",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_01",
+    "number": 1,
+    "name": "Haiti #01",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_02",
+    "number": 2,
+    "name": "Haiti #02",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_03",
+    "number": 3,
+    "name": "Haiti #03",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_04",
+    "number": 4,
+    "name": "Haiti #04",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_05",
+    "number": 5,
+    "name": "Haiti #05",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_06",
+    "number": 6,
+    "name": "Haiti #06",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_07",
+    "number": 7,
+    "name": "Haiti #07",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_08",
+    "number": 8,
+    "name": "Haiti #08",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_09",
+    "number": 9,
+    "name": "Haiti #09",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_10",
+    "number": 10,
+    "name": "Haiti #10",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_11",
+    "number": 11,
+    "name": "Haiti #11",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_12",
+    "number": 12,
+    "name": "Haiti #12",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_13",
+    "number": 13,
+    "name": "Haiti #13",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_14",
+    "number": 14,
+    "name": "Haiti #14",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_15",
+    "number": 15,
+    "name": "Haiti #15",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_16",
+    "number": 16,
+    "name": "Haiti #16",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_17",
+    "number": 17,
+    "name": "Haiti #17",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_18",
+    "number": 18,
+    "name": "Haiti #18",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_19",
+    "number": 19,
+    "name": "Haiti #19",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "HAI_20",
+    "number": 20,
+    "name": "Haiti #20",
+    "team": "Haiti",
+    "abbreviation": "HAI",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_01",
+    "number": 1,
+    "name": "Escócia #01",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_02",
+    "number": 2,
+    "name": "Escócia #02",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_03",
+    "number": 3,
+    "name": "Escócia #03",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_04",
+    "number": 4,
+    "name": "Escócia #04",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_05",
+    "number": 5,
+    "name": "Escócia #05",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_06",
+    "number": 6,
+    "name": "Escócia #06",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_07",
+    "number": 7,
+    "name": "Escócia #07",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_08",
+    "number": 8,
+    "name": "Escócia #08",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_09",
+    "number": 9,
+    "name": "Escócia #09",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_10",
+    "number": 10,
+    "name": "Escócia #10",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_11",
+    "number": 11,
+    "name": "Escócia #11",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_12",
+    "number": 12,
+    "name": "Escócia #12",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_13",
+    "number": 13,
+    "name": "Escócia #13",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_14",
+    "number": 14,
+    "name": "Escócia #14",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_15",
+    "number": 15,
+    "name": "Escócia #15",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_16",
+    "number": 16,
+    "name": "Escócia #16",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_17",
+    "number": 17,
+    "name": "Escócia #17",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_18",
+    "number": 18,
+    "name": "Escócia #18",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_19",
+    "number": 19,
+    "name": "Escócia #19",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "SCO_20",
+    "number": 20,
+    "name": "Escócia #20",
+    "team": "Escócia",
+    "abbreviation": "SCO",
+    "group": "C",
+    "category": "Team"
+  },
+  {
+    "id": "USA_01",
+    "number": 1,
+    "name": "Estados Unidos #01",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_02",
+    "number": 2,
+    "name": "Estados Unidos #02",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_03",
+    "number": 3,
+    "name": "Estados Unidos #03",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_04",
+    "number": 4,
+    "name": "Estados Unidos #04",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_05",
+    "number": 5,
+    "name": "Estados Unidos #05",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_06",
+    "number": 6,
+    "name": "Estados Unidos #06",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_07",
+    "number": 7,
+    "name": "Estados Unidos #07",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_08",
+    "number": 8,
+    "name": "Estados Unidos #08",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_09",
+    "number": 9,
+    "name": "Estados Unidos #09",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_10",
+    "number": 10,
+    "name": "Estados Unidos #10",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_11",
+    "number": 11,
+    "name": "Estados Unidos #11",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_12",
+    "number": 12,
+    "name": "Estados Unidos #12",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_13",
+    "number": 13,
+    "name": "Estados Unidos #13",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_14",
+    "number": 14,
+    "name": "Estados Unidos #14",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_15",
+    "number": 15,
+    "name": "Estados Unidos #15",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_16",
+    "number": 16,
+    "name": "Estados Unidos #16",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_17",
+    "number": 17,
+    "name": "Estados Unidos #17",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_18",
+    "number": 18,
+    "name": "Estados Unidos #18",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_19",
+    "number": 19,
+    "name": "Estados Unidos #19",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "USA_20",
+    "number": 20,
+    "name": "Estados Unidos #20",
+    "team": "Estados Unidos",
+    "abbreviation": "USA",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_01",
+    "number": 1,
+    "name": "Paraguai #01",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_02",
+    "number": 2,
+    "name": "Paraguai #02",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_03",
+    "number": 3,
+    "name": "Paraguai #03",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_04",
+    "number": 4,
+    "name": "Paraguai #04",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_05",
+    "number": 5,
+    "name": "Paraguai #05",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_06",
+    "number": 6,
+    "name": "Paraguai #06",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_07",
+    "number": 7,
+    "name": "Paraguai #07",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_08",
+    "number": 8,
+    "name": "Paraguai #08",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_09",
+    "number": 9,
+    "name": "Paraguai #09",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_10",
+    "number": 10,
+    "name": "Paraguai #10",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_11",
+    "number": 11,
+    "name": "Paraguai #11",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_12",
+    "number": 12,
+    "name": "Paraguai #12",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_13",
+    "number": 13,
+    "name": "Paraguai #13",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_14",
+    "number": 14,
+    "name": "Paraguai #14",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_15",
+    "number": 15,
+    "name": "Paraguai #15",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_16",
+    "number": 16,
+    "name": "Paraguai #16",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_17",
+    "number": 17,
+    "name": "Paraguai #17",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_18",
+    "number": 18,
+    "name": "Paraguai #18",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_19",
+    "number": 19,
+    "name": "Paraguai #19",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "PAR_20",
+    "number": 20,
+    "name": "Paraguai #20",
+    "team": "Paraguai",
+    "abbreviation": "PAR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_01",
+    "number": 1,
+    "name": "Austrália #01",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_02",
+    "number": 2,
+    "name": "Austrália #02",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_03",
+    "number": 3,
+    "name": "Austrália #03",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_04",
+    "number": 4,
+    "name": "Austrália #04",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_05",
+    "number": 5,
+    "name": "Austrália #05",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_06",
+    "number": 6,
+    "name": "Austrália #06",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_07",
+    "number": 7,
+    "name": "Austrália #07",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_08",
+    "number": 8,
+    "name": "Austrália #08",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_09",
+    "number": 9,
+    "name": "Austrália #09",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_10",
+    "number": 10,
+    "name": "Austrália #10",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_11",
+    "number": 11,
+    "name": "Austrália #11",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_12",
+    "number": 12,
+    "name": "Austrália #12",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_13",
+    "number": 13,
+    "name": "Austrália #13",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_14",
+    "number": 14,
+    "name": "Austrália #14",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_15",
+    "number": 15,
+    "name": "Austrália #15",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_16",
+    "number": 16,
+    "name": "Austrália #16",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_17",
+    "number": 17,
+    "name": "Austrália #17",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_18",
+    "number": 18,
+    "name": "Austrália #18",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_19",
+    "number": 19,
+    "name": "Austrália #19",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "AUS_20",
+    "number": 20,
+    "name": "Austrália #20",
+    "team": "Austrália",
+    "abbreviation": "AUS",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_01",
+    "number": 1,
+    "name": "Turquia #01",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_02",
+    "number": 2,
+    "name": "Turquia #02",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_03",
+    "number": 3,
+    "name": "Turquia #03",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_04",
+    "number": 4,
+    "name": "Turquia #04",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_05",
+    "number": 5,
+    "name": "Turquia #05",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_06",
+    "number": 6,
+    "name": "Turquia #06",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_07",
+    "number": 7,
+    "name": "Turquia #07",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_08",
+    "number": 8,
+    "name": "Turquia #08",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_09",
+    "number": 9,
+    "name": "Turquia #09",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_10",
+    "number": 10,
+    "name": "Turquia #10",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_11",
+    "number": 11,
+    "name": "Turquia #11",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_12",
+    "number": 12,
+    "name": "Turquia #12",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_13",
+    "number": 13,
+    "name": "Turquia #13",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_14",
+    "number": 14,
+    "name": "Turquia #14",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_15",
+    "number": 15,
+    "name": "Turquia #15",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_16",
+    "number": 16,
+    "name": "Turquia #16",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_17",
+    "number": 17,
+    "name": "Turquia #17",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_18",
+    "number": 18,
+    "name": "Turquia #18",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_19",
+    "number": 19,
+    "name": "Turquia #19",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "TUR_20",
+    "number": 20,
+    "name": "Turquia #20",
+    "team": "Turquia",
+    "abbreviation": "TUR",
+    "group": "D",
+    "category": "Team"
+  },
+  {
+    "id": "GER_01",
+    "number": 1,
+    "name": "Alemanha #01",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_02",
+    "number": 2,
+    "name": "Alemanha #02",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_03",
+    "number": 3,
+    "name": "Alemanha #03",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_04",
+    "number": 4,
+    "name": "Alemanha #04",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_05",
+    "number": 5,
+    "name": "Alemanha #05",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_06",
+    "number": 6,
+    "name": "Alemanha #06",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_07",
+    "number": 7,
+    "name": "Alemanha #07",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_08",
+    "number": 8,
+    "name": "Alemanha #08",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_09",
+    "number": 9,
+    "name": "Alemanha #09",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_10",
+    "number": 10,
+    "name": "Alemanha #10",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_11",
+    "number": 11,
+    "name": "Alemanha #11",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_12",
+    "number": 12,
+    "name": "Alemanha #12",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_13",
+    "number": 13,
+    "name": "Alemanha #13",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_14",
+    "number": 14,
+    "name": "Alemanha #14",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_15",
+    "number": 15,
+    "name": "Alemanha #15",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_16",
+    "number": 16,
+    "name": "Alemanha #16",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_17",
+    "number": 17,
+    "name": "Alemanha #17",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_18",
+    "number": 18,
+    "name": "Alemanha #18",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_19",
+    "number": 19,
+    "name": "Alemanha #19",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "GER_20",
+    "number": 20,
+    "name": "Alemanha #20",
+    "team": "Alemanha",
+    "abbreviation": "GER",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_01",
+    "number": 1,
+    "name": "Curaçao #01",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_02",
+    "number": 2,
+    "name": "Curaçao #02",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_03",
+    "number": 3,
+    "name": "Curaçao #03",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_04",
+    "number": 4,
+    "name": "Curaçao #04",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_05",
+    "number": 5,
+    "name": "Curaçao #05",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_06",
+    "number": 6,
+    "name": "Curaçao #06",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_07",
+    "number": 7,
+    "name": "Curaçao #07",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_08",
+    "number": 8,
+    "name": "Curaçao #08",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_09",
+    "number": 9,
+    "name": "Curaçao #09",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_10",
+    "number": 10,
+    "name": "Curaçao #10",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_11",
+    "number": 11,
+    "name": "Curaçao #11",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_12",
+    "number": 12,
+    "name": "Curaçao #12",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_13",
+    "number": 13,
+    "name": "Curaçao #13",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_14",
+    "number": 14,
+    "name": "Curaçao #14",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_15",
+    "number": 15,
+    "name": "Curaçao #15",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_16",
+    "number": 16,
+    "name": "Curaçao #16",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_17",
+    "number": 17,
+    "name": "Curaçao #17",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_18",
+    "number": 18,
+    "name": "Curaçao #18",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_19",
+    "number": 19,
+    "name": "Curaçao #19",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CUW_20",
+    "number": 20,
+    "name": "Curaçao #20",
+    "team": "Curaçao",
+    "abbreviation": "CUW",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_01",
+    "number": 1,
+    "name": "Costa do Marfim #01",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_02",
+    "number": 2,
+    "name": "Costa do Marfim #02",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_03",
+    "number": 3,
+    "name": "Costa do Marfim #03",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_04",
+    "number": 4,
+    "name": "Costa do Marfim #04",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_05",
+    "number": 5,
+    "name": "Costa do Marfim #05",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_06",
+    "number": 6,
+    "name": "Costa do Marfim #06",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_07",
+    "number": 7,
+    "name": "Costa do Marfim #07",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_08",
+    "number": 8,
+    "name": "Costa do Marfim #08",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_09",
+    "number": 9,
+    "name": "Costa do Marfim #09",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_10",
+    "number": 10,
+    "name": "Costa do Marfim #10",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_11",
+    "number": 11,
+    "name": "Costa do Marfim #11",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_12",
+    "number": 12,
+    "name": "Costa do Marfim #12",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_13",
+    "number": 13,
+    "name": "Costa do Marfim #13",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_14",
+    "number": 14,
+    "name": "Costa do Marfim #14",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_15",
+    "number": 15,
+    "name": "Costa do Marfim #15",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_16",
+    "number": 16,
+    "name": "Costa do Marfim #16",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_17",
+    "number": 17,
+    "name": "Costa do Marfim #17",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_18",
+    "number": 18,
+    "name": "Costa do Marfim #18",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_19",
+    "number": 19,
+    "name": "Costa do Marfim #19",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "CIV_20",
+    "number": 20,
+    "name": "Costa do Marfim #20",
+    "team": "Costa do Marfim",
+    "abbreviation": "CIV",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_01",
+    "number": 1,
+    "name": "Equador #01",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_02",
+    "number": 2,
+    "name": "Equador #02",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_03",
+    "number": 3,
+    "name": "Equador #03",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_04",
+    "number": 4,
+    "name": "Equador #04",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_05",
+    "number": 5,
+    "name": "Equador #05",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_06",
+    "number": 6,
+    "name": "Equador #06",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_07",
+    "number": 7,
+    "name": "Equador #07",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_08",
+    "number": 8,
+    "name": "Equador #08",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_09",
+    "number": 9,
+    "name": "Equador #09",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_10",
+    "number": 10,
+    "name": "Equador #10",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_11",
+    "number": 11,
+    "name": "Equador #11",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_12",
+    "number": 12,
+    "name": "Equador #12",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_13",
+    "number": 13,
+    "name": "Equador #13",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_14",
+    "number": 14,
+    "name": "Equador #14",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_15",
+    "number": 15,
+    "name": "Equador #15",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_16",
+    "number": 16,
+    "name": "Equador #16",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_17",
+    "number": 17,
+    "name": "Equador #17",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_18",
+    "number": 18,
+    "name": "Equador #18",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_19",
+    "number": 19,
+    "name": "Equador #19",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "ECU_20",
+    "number": 20,
+    "name": "Equador #20",
+    "team": "Equador",
+    "abbreviation": "ECU",
+    "group": "E",
+    "category": "Team"
+  },
+  {
+    "id": "NED_01",
+    "number": 1,
+    "name": "Holanda #01",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_02",
+    "number": 2,
+    "name": "Holanda #02",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_03",
+    "number": 3,
+    "name": "Holanda #03",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_04",
+    "number": 4,
+    "name": "Holanda #04",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_05",
+    "number": 5,
+    "name": "Holanda #05",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_06",
+    "number": 6,
+    "name": "Holanda #06",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_07",
+    "number": 7,
+    "name": "Holanda #07",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_08",
+    "number": 8,
+    "name": "Holanda #08",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_09",
+    "number": 9,
+    "name": "Holanda #09",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_10",
+    "number": 10,
+    "name": "Holanda #10",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_11",
+    "number": 11,
+    "name": "Holanda #11",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_12",
+    "number": 12,
+    "name": "Holanda #12",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_13",
+    "number": 13,
+    "name": "Holanda #13",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_14",
+    "number": 14,
+    "name": "Holanda #14",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_15",
+    "number": 15,
+    "name": "Holanda #15",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_16",
+    "number": 16,
+    "name": "Holanda #16",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_17",
+    "number": 17,
+    "name": "Holanda #17",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_18",
+    "number": 18,
+    "name": "Holanda #18",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_19",
+    "number": 19,
+    "name": "Holanda #19",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "NED_20",
+    "number": 20,
+    "name": "Holanda #20",
+    "team": "Holanda",
+    "abbreviation": "NED",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_01",
+    "number": 1,
+    "name": "Japão #01",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_02",
+    "number": 2,
+    "name": "Japão #02",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_03",
+    "number": 3,
+    "name": "Japão #03",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_04",
+    "number": 4,
+    "name": "Japão #04",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_05",
+    "number": 5,
+    "name": "Japão #05",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_06",
+    "number": 6,
+    "name": "Japão #06",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_07",
+    "number": 7,
+    "name": "Japão #07",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_08",
+    "number": 8,
+    "name": "Japão #08",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_09",
+    "number": 9,
+    "name": "Japão #09",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_10",
+    "number": 10,
+    "name": "Japão #10",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_11",
+    "number": 11,
+    "name": "Japão #11",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_12",
+    "number": 12,
+    "name": "Japão #12",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_13",
+    "number": 13,
+    "name": "Japão #13",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_14",
+    "number": 14,
+    "name": "Japão #14",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_15",
+    "number": 15,
+    "name": "Japão #15",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_16",
+    "number": 16,
+    "name": "Japão #16",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_17",
+    "number": 17,
+    "name": "Japão #17",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_18",
+    "number": 18,
+    "name": "Japão #18",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_19",
+    "number": 19,
+    "name": "Japão #19",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "JPN_20",
+    "number": 20,
+    "name": "Japão #20",
+    "team": "Japão",
+    "abbreviation": "JPN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_01",
+    "number": 1,
+    "name": "Tunísia #01",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_02",
+    "number": 2,
+    "name": "Tunísia #02",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_03",
+    "number": 3,
+    "name": "Tunísia #03",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_04",
+    "number": 4,
+    "name": "Tunísia #04",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_05",
+    "number": 5,
+    "name": "Tunísia #05",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_06",
+    "number": 6,
+    "name": "Tunísia #06",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_07",
+    "number": 7,
+    "name": "Tunísia #07",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_08",
+    "number": 8,
+    "name": "Tunísia #08",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_09",
+    "number": 9,
+    "name": "Tunísia #09",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_10",
+    "number": 10,
+    "name": "Tunísia #10",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_11",
+    "number": 11,
+    "name": "Tunísia #11",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_12",
+    "number": 12,
+    "name": "Tunísia #12",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_13",
+    "number": 13,
+    "name": "Tunísia #13",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_14",
+    "number": 14,
+    "name": "Tunísia #14",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_15",
+    "number": 15,
+    "name": "Tunísia #15",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_16",
+    "number": 16,
+    "name": "Tunísia #16",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_17",
+    "number": 17,
+    "name": "Tunísia #17",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_18",
+    "number": 18,
+    "name": "Tunísia #18",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_19",
+    "number": 19,
+    "name": "Tunísia #19",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "TUN_20",
+    "number": 20,
+    "name": "Tunísia #20",
+    "team": "Tunísia",
+    "abbreviation": "TUN",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_01",
+    "number": 1,
+    "name": "Suécia #01",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_02",
+    "number": 2,
+    "name": "Suécia #02",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_03",
+    "number": 3,
+    "name": "Suécia #03",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_04",
+    "number": 4,
+    "name": "Suécia #04",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_05",
+    "number": 5,
+    "name": "Suécia #05",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_06",
+    "number": 6,
+    "name": "Suécia #06",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_07",
+    "number": 7,
+    "name": "Suécia #07",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_08",
+    "number": 8,
+    "name": "Suécia #08",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_09",
+    "number": 9,
+    "name": "Suécia #09",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_10",
+    "number": 10,
+    "name": "Suécia #10",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_11",
+    "number": 11,
+    "name": "Suécia #11",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_12",
+    "number": 12,
+    "name": "Suécia #12",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_13",
+    "number": 13,
+    "name": "Suécia #13",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_14",
+    "number": 14,
+    "name": "Suécia #14",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_15",
+    "number": 15,
+    "name": "Suécia #15",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_16",
+    "number": 16,
+    "name": "Suécia #16",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_17",
+    "number": 17,
+    "name": "Suécia #17",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_18",
+    "number": 18,
+    "name": "Suécia #18",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_19",
+    "number": 19,
+    "name": "Suécia #19",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "SWE_20",
+    "number": 20,
+    "name": "Suécia #20",
+    "team": "Suécia",
+    "abbreviation": "SWE",
+    "group": "F",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_01",
+    "number": 1,
+    "name": "Bélgica #01",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_02",
+    "number": 2,
+    "name": "Bélgica #02",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_03",
+    "number": 3,
+    "name": "Bélgica #03",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_04",
+    "number": 4,
+    "name": "Bélgica #04",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_05",
+    "number": 5,
+    "name": "Bélgica #05",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_06",
+    "number": 6,
+    "name": "Bélgica #06",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_07",
+    "number": 7,
+    "name": "Bélgica #07",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_08",
+    "number": 8,
+    "name": "Bélgica #08",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_09",
+    "number": 9,
+    "name": "Bélgica #09",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_10",
+    "number": 10,
+    "name": "Bélgica #10",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_11",
+    "number": 11,
+    "name": "Bélgica #11",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_12",
+    "number": 12,
+    "name": "Bélgica #12",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_13",
+    "number": 13,
+    "name": "Bélgica #13",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_14",
+    "number": 14,
+    "name": "Bélgica #14",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_15",
+    "number": 15,
+    "name": "Bélgica #15",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_16",
+    "number": 16,
+    "name": "Bélgica #16",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_17",
+    "number": 17,
+    "name": "Bélgica #17",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_18",
+    "number": 18,
+    "name": "Bélgica #18",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_19",
+    "number": 19,
+    "name": "Bélgica #19",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "BEL_20",
+    "number": 20,
+    "name": "Bélgica #20",
+    "team": "Bélgica",
+    "abbreviation": "BEL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_01",
+    "number": 1,
+    "name": "Egito #01",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_02",
+    "number": 2,
+    "name": "Egito #02",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_03",
+    "number": 3,
+    "name": "Egito #03",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_04",
+    "number": 4,
+    "name": "Egito #04",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_05",
+    "number": 5,
+    "name": "Egito #05",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_06",
+    "number": 6,
+    "name": "Egito #06",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_07",
+    "number": 7,
+    "name": "Egito #07",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_08",
+    "number": 8,
+    "name": "Egito #08",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_09",
+    "number": 9,
+    "name": "Egito #09",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_10",
+    "number": 10,
+    "name": "Egito #10",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_11",
+    "number": 11,
+    "name": "Egito #11",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_12",
+    "number": 12,
+    "name": "Egito #12",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_13",
+    "number": 13,
+    "name": "Egito #13",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_14",
+    "number": 14,
+    "name": "Egito #14",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_15",
+    "number": 15,
+    "name": "Egito #15",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_16",
+    "number": 16,
+    "name": "Egito #16",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_17",
+    "number": 17,
+    "name": "Egito #17",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_18",
+    "number": 18,
+    "name": "Egito #18",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_19",
+    "number": 19,
+    "name": "Egito #19",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "EGY_20",
+    "number": 20,
+    "name": "Egito #20",
+    "team": "Egito",
+    "abbreviation": "EGY",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_01",
+    "number": 1,
+    "name": "Irã #01",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_02",
+    "number": 2,
+    "name": "Irã #02",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_03",
+    "number": 3,
+    "name": "Irã #03",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_04",
+    "number": 4,
+    "name": "Irã #04",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_05",
+    "number": 5,
+    "name": "Irã #05",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_06",
+    "number": 6,
+    "name": "Irã #06",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_07",
+    "number": 7,
+    "name": "Irã #07",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_08",
+    "number": 8,
+    "name": "Irã #08",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_09",
+    "number": 9,
+    "name": "Irã #09",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_10",
+    "number": 10,
+    "name": "Irã #10",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_11",
+    "number": 11,
+    "name": "Irã #11",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_12",
+    "number": 12,
+    "name": "Irã #12",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_13",
+    "number": 13,
+    "name": "Irã #13",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_14",
+    "number": 14,
+    "name": "Irã #14",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_15",
+    "number": 15,
+    "name": "Irã #15",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_16",
+    "number": 16,
+    "name": "Irã #16",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_17",
+    "number": 17,
+    "name": "Irã #17",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_18",
+    "number": 18,
+    "name": "Irã #18",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_19",
+    "number": 19,
+    "name": "Irã #19",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "IRN_20",
+    "number": 20,
+    "name": "Irã #20",
+    "team": "Irã",
+    "abbreviation": "IRN",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_01",
+    "number": 1,
+    "name": "Nova Zelândia #01",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_02",
+    "number": 2,
+    "name": "Nova Zelândia #02",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_03",
+    "number": 3,
+    "name": "Nova Zelândia #03",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_04",
+    "number": 4,
+    "name": "Nova Zelândia #04",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_05",
+    "number": 5,
+    "name": "Nova Zelândia #05",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_06",
+    "number": 6,
+    "name": "Nova Zelândia #06",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_07",
+    "number": 7,
+    "name": "Nova Zelândia #07",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_08",
+    "number": 8,
+    "name": "Nova Zelândia #08",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_09",
+    "number": 9,
+    "name": "Nova Zelândia #09",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_10",
+    "number": 10,
+    "name": "Nova Zelândia #10",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_11",
+    "number": 11,
+    "name": "Nova Zelândia #11",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_12",
+    "number": 12,
+    "name": "Nova Zelândia #12",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_13",
+    "number": 13,
+    "name": "Nova Zelândia #13",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_14",
+    "number": 14,
+    "name": "Nova Zelândia #14",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_15",
+    "number": 15,
+    "name": "Nova Zelândia #15",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_16",
+    "number": 16,
+    "name": "Nova Zelândia #16",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_17",
+    "number": 17,
+    "name": "Nova Zelândia #17",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_18",
+    "number": 18,
+    "name": "Nova Zelândia #18",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_19",
+    "number": 19,
+    "name": "Nova Zelândia #19",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "NZL_20",
+    "number": 20,
+    "name": "Nova Zelândia #20",
+    "team": "Nova Zelândia",
+    "abbreviation": "NZL",
+    "group": "G",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_01",
+    "number": 1,
+    "name": "Espanha #01",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_02",
+    "number": 2,
+    "name": "Espanha #02",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_03",
+    "number": 3,
+    "name": "Espanha #03",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_04",
+    "number": 4,
+    "name": "Espanha #04",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_05",
+    "number": 5,
+    "name": "Espanha #05",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_06",
+    "number": 6,
+    "name": "Espanha #06",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_07",
+    "number": 7,
+    "name": "Espanha #07",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_08",
+    "number": 8,
+    "name": "Espanha #08",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_09",
+    "number": 9,
+    "name": "Espanha #09",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_10",
+    "number": 10,
+    "name": "Espanha #10",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_11",
+    "number": 11,
+    "name": "Espanha #11",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_12",
+    "number": 12,
+    "name": "Espanha #12",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_13",
+    "number": 13,
+    "name": "Espanha #13",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_14",
+    "number": 14,
+    "name": "Espanha #14",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_15",
+    "number": 15,
+    "name": "Espanha #15",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_16",
+    "number": 16,
+    "name": "Espanha #16",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_17",
+    "number": 17,
+    "name": "Espanha #17",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_18",
+    "number": 18,
+    "name": "Espanha #18",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_19",
+    "number": 19,
+    "name": "Espanha #19",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "ESP_20",
+    "number": 20,
+    "name": "Espanha #20",
+    "team": "Espanha",
+    "abbreviation": "ESP",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_01",
+    "number": 1,
+    "name": "Cabo Verde #01",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_02",
+    "number": 2,
+    "name": "Cabo Verde #02",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_03",
+    "number": 3,
+    "name": "Cabo Verde #03",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_04",
+    "number": 4,
+    "name": "Cabo Verde #04",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_05",
+    "number": 5,
+    "name": "Cabo Verde #05",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_06",
+    "number": 6,
+    "name": "Cabo Verde #06",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_07",
+    "number": 7,
+    "name": "Cabo Verde #07",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_08",
+    "number": 8,
+    "name": "Cabo Verde #08",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_09",
+    "number": 9,
+    "name": "Cabo Verde #09",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_10",
+    "number": 10,
+    "name": "Cabo Verde #10",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_11",
+    "number": 11,
+    "name": "Cabo Verde #11",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_12",
+    "number": 12,
+    "name": "Cabo Verde #12",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_13",
+    "number": 13,
+    "name": "Cabo Verde #13",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_14",
+    "number": 14,
+    "name": "Cabo Verde #14",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_15",
+    "number": 15,
+    "name": "Cabo Verde #15",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_16",
+    "number": 16,
+    "name": "Cabo Verde #16",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_17",
+    "number": 17,
+    "name": "Cabo Verde #17",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_18",
+    "number": 18,
+    "name": "Cabo Verde #18",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_19",
+    "number": 19,
+    "name": "Cabo Verde #19",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "CPV_20",
+    "number": 20,
+    "name": "Cabo Verde #20",
+    "team": "Cabo Verde",
+    "abbreviation": "CPV",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_01",
+    "number": 1,
+    "name": "Arábia Saudita #01",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_02",
+    "number": 2,
+    "name": "Arábia Saudita #02",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_03",
+    "number": 3,
+    "name": "Arábia Saudita #03",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_04",
+    "number": 4,
+    "name": "Arábia Saudita #04",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_05",
+    "number": 5,
+    "name": "Arábia Saudita #05",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_06",
+    "number": 6,
+    "name": "Arábia Saudita #06",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_07",
+    "number": 7,
+    "name": "Arábia Saudita #07",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_08",
+    "number": 8,
+    "name": "Arábia Saudita #08",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_09",
+    "number": 9,
+    "name": "Arábia Saudita #09",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_10",
+    "number": 10,
+    "name": "Arábia Saudita #10",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_11",
+    "number": 11,
+    "name": "Arábia Saudita #11",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_12",
+    "number": 12,
+    "name": "Arábia Saudita #12",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_13",
+    "number": 13,
+    "name": "Arábia Saudita #13",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_14",
+    "number": 14,
+    "name": "Arábia Saudita #14",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_15",
+    "number": 15,
+    "name": "Arábia Saudita #15",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_16",
+    "number": 16,
+    "name": "Arábia Saudita #16",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_17",
+    "number": 17,
+    "name": "Arábia Saudita #17",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_18",
+    "number": 18,
+    "name": "Arábia Saudita #18",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_19",
+    "number": 19,
+    "name": "Arábia Saudita #19",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "KSA_20",
+    "number": 20,
+    "name": "Arábia Saudita #20",
+    "team": "Arábia Saudita",
+    "abbreviation": "KSA",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_01",
+    "number": 1,
+    "name": "Uruguai #01",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_02",
+    "number": 2,
+    "name": "Uruguai #02",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_03",
+    "number": 3,
+    "name": "Uruguai #03",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_04",
+    "number": 4,
+    "name": "Uruguai #04",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_05",
+    "number": 5,
+    "name": "Uruguai #05",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_06",
+    "number": 6,
+    "name": "Uruguai #06",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_07",
+    "number": 7,
+    "name": "Uruguai #07",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_08",
+    "number": 8,
+    "name": "Uruguai #08",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_09",
+    "number": 9,
+    "name": "Uruguai #09",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_10",
+    "number": 10,
+    "name": "Uruguai #10",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_11",
+    "number": 11,
+    "name": "Uruguai #11",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_12",
+    "number": 12,
+    "name": "Uruguai #12",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_13",
+    "number": 13,
+    "name": "Uruguai #13",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_14",
+    "number": 14,
+    "name": "Uruguai #14",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_15",
+    "number": 15,
+    "name": "Uruguai #15",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_16",
+    "number": 16,
+    "name": "Uruguai #16",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_17",
+    "number": 17,
+    "name": "Uruguai #17",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_18",
+    "number": 18,
+    "name": "Uruguai #18",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_19",
+    "number": 19,
+    "name": "Uruguai #19",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "URU_20",
+    "number": 20,
+    "name": "Uruguai #20",
+    "team": "Uruguai",
+    "abbreviation": "URU",
+    "group": "H",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_01",
+    "number": 1,
+    "name": "França #01",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_02",
+    "number": 2,
+    "name": "França #02",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_03",
+    "number": 3,
+    "name": "França #03",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_04",
+    "number": 4,
+    "name": "França #04",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_05",
+    "number": 5,
+    "name": "França #05",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_06",
+    "number": 6,
+    "name": "França #06",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_07",
+    "number": 7,
+    "name": "França #07",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_08",
+    "number": 8,
+    "name": "França #08",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_09",
+    "number": 9,
+    "name": "França #09",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_10",
+    "number": 10,
+    "name": "França #10",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_11",
+    "number": 11,
+    "name": "França #11",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_12",
+    "number": 12,
+    "name": "França #12",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_13",
+    "number": 13,
+    "name": "França #13",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_14",
+    "number": 14,
+    "name": "França #14",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_15",
+    "number": 15,
+    "name": "França #15",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_16",
+    "number": 16,
+    "name": "França #16",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_17",
+    "number": 17,
+    "name": "França #17",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_18",
+    "number": 18,
+    "name": "França #18",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_19",
+    "number": 19,
+    "name": "França #19",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "FRA_20",
+    "number": 20,
+    "name": "França #20",
+    "team": "França",
+    "abbreviation": "FRA",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_01",
+    "number": 1,
+    "name": "Senegal #01",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_02",
+    "number": 2,
+    "name": "Senegal #02",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_03",
+    "number": 3,
+    "name": "Senegal #03",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_04",
+    "number": 4,
+    "name": "Senegal #04",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_05",
+    "number": 5,
+    "name": "Senegal #05",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_06",
+    "number": 6,
+    "name": "Senegal #06",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_07",
+    "number": 7,
+    "name": "Senegal #07",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_08",
+    "number": 8,
+    "name": "Senegal #08",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_09",
+    "number": 9,
+    "name": "Senegal #09",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_10",
+    "number": 10,
+    "name": "Senegal #10",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_11",
+    "number": 11,
+    "name": "Senegal #11",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_12",
+    "number": 12,
+    "name": "Senegal #12",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_13",
+    "number": 13,
+    "name": "Senegal #13",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_14",
+    "number": 14,
+    "name": "Senegal #14",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_15",
+    "number": 15,
+    "name": "Senegal #15",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_16",
+    "number": 16,
+    "name": "Senegal #16",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_17",
+    "number": 17,
+    "name": "Senegal #17",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_18",
+    "number": 18,
+    "name": "Senegal #18",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_19",
+    "number": 19,
+    "name": "Senegal #19",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "SEN_20",
+    "number": 20,
+    "name": "Senegal #20",
+    "team": "Senegal",
+    "abbreviation": "SEN",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_01",
+    "number": 1,
+    "name": "Iraque #01",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_02",
+    "number": 2,
+    "name": "Iraque #02",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_03",
+    "number": 3,
+    "name": "Iraque #03",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_04",
+    "number": 4,
+    "name": "Iraque #04",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_05",
+    "number": 5,
+    "name": "Iraque #05",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_06",
+    "number": 6,
+    "name": "Iraque #06",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_07",
+    "number": 7,
+    "name": "Iraque #07",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_08",
+    "number": 8,
+    "name": "Iraque #08",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_09",
+    "number": 9,
+    "name": "Iraque #09",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_10",
+    "number": 10,
+    "name": "Iraque #10",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_11",
+    "number": 11,
+    "name": "Iraque #11",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_12",
+    "number": 12,
+    "name": "Iraque #12",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_13",
+    "number": 13,
+    "name": "Iraque #13",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_14",
+    "number": 14,
+    "name": "Iraque #14",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_15",
+    "number": 15,
+    "name": "Iraque #15",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_16",
+    "number": 16,
+    "name": "Iraque #16",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_17",
+    "number": 17,
+    "name": "Iraque #17",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_18",
+    "number": 18,
+    "name": "Iraque #18",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_19",
+    "number": 19,
+    "name": "Iraque #19",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "IRQ_20",
+    "number": 20,
+    "name": "Iraque #20",
+    "team": "Iraque",
+    "abbreviation": "IRQ",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_01",
+    "number": 1,
+    "name": "Noruega #01",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_02",
+    "number": 2,
+    "name": "Noruega #02",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_03",
+    "number": 3,
+    "name": "Noruega #03",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_04",
+    "number": 4,
+    "name": "Noruega #04",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_05",
+    "number": 5,
+    "name": "Noruega #05",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_06",
+    "number": 6,
+    "name": "Noruega #06",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_07",
+    "number": 7,
+    "name": "Noruega #07",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_08",
+    "number": 8,
+    "name": "Noruega #08",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_09",
+    "number": 9,
+    "name": "Noruega #09",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_10",
+    "number": 10,
+    "name": "Noruega #10",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_11",
+    "number": 11,
+    "name": "Noruega #11",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_12",
+    "number": 12,
+    "name": "Noruega #12",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_13",
+    "number": 13,
+    "name": "Noruega #13",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_14",
+    "number": 14,
+    "name": "Noruega #14",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_15",
+    "number": 15,
+    "name": "Noruega #15",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_16",
+    "number": 16,
+    "name": "Noruega #16",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_17",
+    "number": 17,
+    "name": "Noruega #17",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_18",
+    "number": 18,
+    "name": "Noruega #18",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_19",
+    "number": 19,
+    "name": "Noruega #19",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "NOR_20",
+    "number": 20,
+    "name": "Noruega #20",
+    "team": "Noruega",
+    "abbreviation": "NOR",
+    "group": "I",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_01",
+    "number": 1,
+    "name": "Argentina #01",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_02",
+    "number": 2,
+    "name": "Argentina #02",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_03",
+    "number": 3,
+    "name": "Argentina #03",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_04",
+    "number": 4,
+    "name": "Argentina #04",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_05",
+    "number": 5,
+    "name": "Argentina #05",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_06",
+    "number": 6,
+    "name": "Argentina #06",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_07",
+    "number": 7,
+    "name": "Argentina #07",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_08",
+    "number": 8,
+    "name": "Argentina #08",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_09",
+    "number": 9,
+    "name": "Argentina #09",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_10",
+    "number": 10,
+    "name": "Argentina #10",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_11",
+    "number": 11,
+    "name": "Argentina #11",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_12",
+    "number": 12,
+    "name": "Argentina #12",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_13",
+    "number": 13,
+    "name": "Argentina #13",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_14",
+    "number": 14,
+    "name": "Argentina #14",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_15",
+    "number": 15,
+    "name": "Argentina #15",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_16",
+    "number": 16,
+    "name": "Argentina #16",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_17",
+    "number": 17,
+    "name": "Argentina #17",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_18",
+    "number": 18,
+    "name": "Argentina #18",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_19",
+    "number": 19,
+    "name": "Argentina #19",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ARG_20",
+    "number": 20,
+    "name": "Argentina #20",
+    "team": "Argentina",
+    "abbreviation": "ARG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_01",
+    "number": 1,
+    "name": "Argélia #01",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_02",
+    "number": 2,
+    "name": "Argélia #02",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_03",
+    "number": 3,
+    "name": "Argélia #03",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_04",
+    "number": 4,
+    "name": "Argélia #04",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_05",
+    "number": 5,
+    "name": "Argélia #05",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_06",
+    "number": 6,
+    "name": "Argélia #06",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_07",
+    "number": 7,
+    "name": "Argélia #07",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_08",
+    "number": 8,
+    "name": "Argélia #08",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_09",
+    "number": 9,
+    "name": "Argélia #09",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_10",
+    "number": 10,
+    "name": "Argélia #10",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_11",
+    "number": 11,
+    "name": "Argélia #11",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_12",
+    "number": 12,
+    "name": "Argélia #12",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_13",
+    "number": 13,
+    "name": "Argélia #13",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_14",
+    "number": 14,
+    "name": "Argélia #14",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_15",
+    "number": 15,
+    "name": "Argélia #15",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_16",
+    "number": 16,
+    "name": "Argélia #16",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_17",
+    "number": 17,
+    "name": "Argélia #17",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_18",
+    "number": 18,
+    "name": "Argélia #18",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_19",
+    "number": 19,
+    "name": "Argélia #19",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "ALG_20",
+    "number": 20,
+    "name": "Argélia #20",
+    "team": "Argélia",
+    "abbreviation": "ALG",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_01",
+    "number": 1,
+    "name": "Áustria #01",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_02",
+    "number": 2,
+    "name": "Áustria #02",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_03",
+    "number": 3,
+    "name": "Áustria #03",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_04",
+    "number": 4,
+    "name": "Áustria #04",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_05",
+    "number": 5,
+    "name": "Áustria #05",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_06",
+    "number": 6,
+    "name": "Áustria #06",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_07",
+    "number": 7,
+    "name": "Áustria #07",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_08",
+    "number": 8,
+    "name": "Áustria #08",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_09",
+    "number": 9,
+    "name": "Áustria #09",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_10",
+    "number": 10,
+    "name": "Áustria #10",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_11",
+    "number": 11,
+    "name": "Áustria #11",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_12",
+    "number": 12,
+    "name": "Áustria #12",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_13",
+    "number": 13,
+    "name": "Áustria #13",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_14",
+    "number": 14,
+    "name": "Áustria #14",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_15",
+    "number": 15,
+    "name": "Áustria #15",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_16",
+    "number": 16,
+    "name": "Áustria #16",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_17",
+    "number": 17,
+    "name": "Áustria #17",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_18",
+    "number": 18,
+    "name": "Áustria #18",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_19",
+    "number": 19,
+    "name": "Áustria #19",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "AUT_20",
+    "number": 20,
+    "name": "Áustria #20",
+    "team": "Áustria",
+    "abbreviation": "AUT",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_01",
+    "number": 1,
+    "name": "Jordânia #01",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_02",
+    "number": 2,
+    "name": "Jordânia #02",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_03",
+    "number": 3,
+    "name": "Jordânia #03",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_04",
+    "number": 4,
+    "name": "Jordânia #04",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_05",
+    "number": 5,
+    "name": "Jordânia #05",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_06",
+    "number": 6,
+    "name": "Jordânia #06",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_07",
+    "number": 7,
+    "name": "Jordânia #07",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_08",
+    "number": 8,
+    "name": "Jordânia #08",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_09",
+    "number": 9,
+    "name": "Jordânia #09",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_10",
+    "number": 10,
+    "name": "Jordânia #10",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_11",
+    "number": 11,
+    "name": "Jordânia #11",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_12",
+    "number": 12,
+    "name": "Jordânia #12",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_13",
+    "number": 13,
+    "name": "Jordânia #13",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_14",
+    "number": 14,
+    "name": "Jordânia #14",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_15",
+    "number": 15,
+    "name": "Jordânia #15",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_16",
+    "number": 16,
+    "name": "Jordânia #16",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_17",
+    "number": 17,
+    "name": "Jordânia #17",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_18",
+    "number": 18,
+    "name": "Jordânia #18",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_19",
+    "number": 19,
+    "name": "Jordânia #19",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "JOR_20",
+    "number": 20,
+    "name": "Jordânia #20",
+    "team": "Jordânia",
+    "abbreviation": "JOR",
+    "group": "J",
+    "category": "Team"
+  },
+  {
+    "id": "POR_01",
+    "number": 1,
+    "name": "Portugal #01",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_02",
+    "number": 2,
+    "name": "Portugal #02",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_03",
+    "number": 3,
+    "name": "Portugal #03",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_04",
+    "number": 4,
+    "name": "Portugal #04",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_05",
+    "number": 5,
+    "name": "Portugal #05",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_06",
+    "number": 6,
+    "name": "Portugal #06",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_07",
+    "number": 7,
+    "name": "Portugal #07",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_08",
+    "number": 8,
+    "name": "Portugal #08",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_09",
+    "number": 9,
+    "name": "Portugal #09",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_10",
+    "number": 10,
+    "name": "Portugal #10",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_11",
+    "number": 11,
+    "name": "Portugal #11",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_12",
+    "number": 12,
+    "name": "Portugal #12",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_13",
+    "number": 13,
+    "name": "Portugal #13",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_14",
+    "number": 14,
+    "name": "Portugal #14",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_15",
+    "number": 15,
+    "name": "Portugal #15",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_16",
+    "number": 16,
+    "name": "Portugal #16",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_17",
+    "number": 17,
+    "name": "Portugal #17",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_18",
+    "number": 18,
+    "name": "Portugal #18",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_19",
+    "number": 19,
+    "name": "Portugal #19",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "POR_20",
+    "number": 20,
+    "name": "Portugal #20",
+    "team": "Portugal",
+    "abbreviation": "POR",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_01",
+    "number": 1,
+    "name": "Colômbia #01",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_02",
+    "number": 2,
+    "name": "Colômbia #02",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_03",
+    "number": 3,
+    "name": "Colômbia #03",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_04",
+    "number": 4,
+    "name": "Colômbia #04",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_05",
+    "number": 5,
+    "name": "Colômbia #05",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_06",
+    "number": 6,
+    "name": "Colômbia #06",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_07",
+    "number": 7,
+    "name": "Colômbia #07",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_08",
+    "number": 8,
+    "name": "Colômbia #08",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_09",
+    "number": 9,
+    "name": "Colômbia #09",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_10",
+    "number": 10,
+    "name": "Colômbia #10",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_11",
+    "number": 11,
+    "name": "Colômbia #11",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_12",
+    "number": 12,
+    "name": "Colômbia #12",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_13",
+    "number": 13,
+    "name": "Colômbia #13",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_14",
+    "number": 14,
+    "name": "Colômbia #14",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_15",
+    "number": 15,
+    "name": "Colômbia #15",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_16",
+    "number": 16,
+    "name": "Colômbia #16",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_17",
+    "number": 17,
+    "name": "Colômbia #17",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_18",
+    "number": 18,
+    "name": "Colômbia #18",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_19",
+    "number": 19,
+    "name": "Colômbia #19",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COL_20",
+    "number": 20,
+    "name": "Colômbia #20",
+    "team": "Colômbia",
+    "abbreviation": "COL",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_01",
+    "number": 1,
+    "name": "Uzbequistão #01",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_02",
+    "number": 2,
+    "name": "Uzbequistão #02",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_03",
+    "number": 3,
+    "name": "Uzbequistão #03",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_04",
+    "number": 4,
+    "name": "Uzbequistão #04",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_05",
+    "number": 5,
+    "name": "Uzbequistão #05",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_06",
+    "number": 6,
+    "name": "Uzbequistão #06",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_07",
+    "number": 7,
+    "name": "Uzbequistão #07",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_08",
+    "number": 8,
+    "name": "Uzbequistão #08",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_09",
+    "number": 9,
+    "name": "Uzbequistão #09",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_10",
+    "number": 10,
+    "name": "Uzbequistão #10",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_11",
+    "number": 11,
+    "name": "Uzbequistão #11",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_12",
+    "number": 12,
+    "name": "Uzbequistão #12",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_13",
+    "number": 13,
+    "name": "Uzbequistão #13",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_14",
+    "number": 14,
+    "name": "Uzbequistão #14",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_15",
+    "number": 15,
+    "name": "Uzbequistão #15",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_16",
+    "number": 16,
+    "name": "Uzbequistão #16",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_17",
+    "number": 17,
+    "name": "Uzbequistão #17",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_18",
+    "number": 18,
+    "name": "Uzbequistão #18",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_19",
+    "number": 19,
+    "name": "Uzbequistão #19",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "UZB_20",
+    "number": 20,
+    "name": "Uzbequistão #20",
+    "team": "Uzbequistão",
+    "abbreviation": "UZB",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_01",
+    "number": 1,
+    "name": "RD Congo #01",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_02",
+    "number": 2,
+    "name": "RD Congo #02",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_03",
+    "number": 3,
+    "name": "RD Congo #03",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_04",
+    "number": 4,
+    "name": "RD Congo #04",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_05",
+    "number": 5,
+    "name": "RD Congo #05",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_06",
+    "number": 6,
+    "name": "RD Congo #06",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_07",
+    "number": 7,
+    "name": "RD Congo #07",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_08",
+    "number": 8,
+    "name": "RD Congo #08",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_09",
+    "number": 9,
+    "name": "RD Congo #09",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_10",
+    "number": 10,
+    "name": "RD Congo #10",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_11",
+    "number": 11,
+    "name": "RD Congo #11",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_12",
+    "number": 12,
+    "name": "RD Congo #12",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_13",
+    "number": 13,
+    "name": "RD Congo #13",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_14",
+    "number": 14,
+    "name": "RD Congo #14",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_15",
+    "number": 15,
+    "name": "RD Congo #15",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_16",
+    "number": 16,
+    "name": "RD Congo #16",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_17",
+    "number": 17,
+    "name": "RD Congo #17",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_18",
+    "number": 18,
+    "name": "RD Congo #18",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_19",
+    "number": 19,
+    "name": "RD Congo #19",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "COD_20",
+    "number": 20,
+    "name": "RD Congo #20",
+    "team": "RD Congo",
+    "abbreviation": "COD",
+    "group": "K",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_01",
+    "number": 1,
+    "name": "Inglaterra #01",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_02",
+    "number": 2,
+    "name": "Inglaterra #02",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_03",
+    "number": 3,
+    "name": "Inglaterra #03",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_04",
+    "number": 4,
+    "name": "Inglaterra #04",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_05",
+    "number": 5,
+    "name": "Inglaterra #05",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_06",
+    "number": 6,
+    "name": "Inglaterra #06",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_07",
+    "number": 7,
+    "name": "Inglaterra #07",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_08",
+    "number": 8,
+    "name": "Inglaterra #08",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_09",
+    "number": 9,
+    "name": "Inglaterra #09",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_10",
+    "number": 10,
+    "name": "Inglaterra #10",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_11",
+    "number": 11,
+    "name": "Inglaterra #11",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_12",
+    "number": 12,
+    "name": "Inglaterra #12",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_13",
+    "number": 13,
+    "name": "Inglaterra #13",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_14",
+    "number": 14,
+    "name": "Inglaterra #14",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_15",
+    "number": 15,
+    "name": "Inglaterra #15",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_16",
+    "number": 16,
+    "name": "Inglaterra #16",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_17",
+    "number": 17,
+    "name": "Inglaterra #17",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_18",
+    "number": 18,
+    "name": "Inglaterra #18",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_19",
+    "number": 19,
+    "name": "Inglaterra #19",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "ENG_20",
+    "number": 20,
+    "name": "Inglaterra #20",
+    "team": "Inglaterra",
+    "abbreviation": "ENG",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_01",
+    "number": 1,
+    "name": "Croácia #01",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_02",
+    "number": 2,
+    "name": "Croácia #02",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_03",
+    "number": 3,
+    "name": "Croácia #03",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_04",
+    "number": 4,
+    "name": "Croácia #04",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_05",
+    "number": 5,
+    "name": "Croácia #05",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_06",
+    "number": 6,
+    "name": "Croácia #06",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_07",
+    "number": 7,
+    "name": "Croácia #07",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_08",
+    "number": 8,
+    "name": "Croácia #08",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_09",
+    "number": 9,
+    "name": "Croácia #09",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_10",
+    "number": 10,
+    "name": "Croácia #10",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_11",
+    "number": 11,
+    "name": "Croácia #11",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_12",
+    "number": 12,
+    "name": "Croácia #12",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_13",
+    "number": 13,
+    "name": "Croácia #13",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_14",
+    "number": 14,
+    "name": "Croácia #14",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_15",
+    "number": 15,
+    "name": "Croácia #15",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_16",
+    "number": 16,
+    "name": "Croácia #16",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_17",
+    "number": 17,
+    "name": "Croácia #17",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_18",
+    "number": 18,
+    "name": "Croácia #18",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_19",
+    "number": 19,
+    "name": "Croácia #19",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "CRO_20",
+    "number": 20,
+    "name": "Croácia #20",
+    "team": "Croácia",
+    "abbreviation": "CRO",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_01",
+    "number": 1,
+    "name": "Gana #01",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_02",
+    "number": 2,
+    "name": "Gana #02",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_03",
+    "number": 3,
+    "name": "Gana #03",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_04",
+    "number": 4,
+    "name": "Gana #04",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_05",
+    "number": 5,
+    "name": "Gana #05",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_06",
+    "number": 6,
+    "name": "Gana #06",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_07",
+    "number": 7,
+    "name": "Gana #07",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_08",
+    "number": 8,
+    "name": "Gana #08",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_09",
+    "number": 9,
+    "name": "Gana #09",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_10",
+    "number": 10,
+    "name": "Gana #10",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_11",
+    "number": 11,
+    "name": "Gana #11",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_12",
+    "number": 12,
+    "name": "Gana #12",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_13",
+    "number": 13,
+    "name": "Gana #13",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_14",
+    "number": 14,
+    "name": "Gana #14",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_15",
+    "number": 15,
+    "name": "Gana #15",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_16",
+    "number": 16,
+    "name": "Gana #16",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_17",
+    "number": 17,
+    "name": "Gana #17",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_18",
+    "number": 18,
+    "name": "Gana #18",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_19",
+    "number": 19,
+    "name": "Gana #19",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "GHA_20",
+    "number": 20,
+    "name": "Gana #20",
+    "team": "Gana",
+    "abbreviation": "GHA",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_01",
+    "number": 1,
+    "name": "Panamá #01",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_02",
+    "number": 2,
+    "name": "Panamá #02",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_03",
+    "number": 3,
+    "name": "Panamá #03",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_04",
+    "number": 4,
+    "name": "Panamá #04",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_05",
+    "number": 5,
+    "name": "Panamá #05",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_06",
+    "number": 6,
+    "name": "Panamá #06",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_07",
+    "number": 7,
+    "name": "Panamá #07",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_08",
+    "number": 8,
+    "name": "Panamá #08",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_09",
+    "number": 9,
+    "name": "Panamá #09",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_10",
+    "number": 10,
+    "name": "Panamá #10",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_11",
+    "number": 11,
+    "name": "Panamá #11",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_12",
+    "number": 12,
+    "name": "Panamá #12",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_13",
+    "number": 13,
+    "name": "Panamá #13",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_14",
+    "number": 14,
+    "name": "Panamá #14",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_15",
+    "number": 15,
+    "name": "Panamá #15",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_16",
+    "number": 16,
+    "name": "Panamá #16",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_17",
+    "number": 17,
+    "name": "Panamá #17",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_18",
+    "number": 18,
+    "name": "Panamá #18",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_19",
+    "number": 19,
+    "name": "Panamá #19",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "PAN_20",
+    "number": 20,
+    "name": "Panamá #20",
+    "team": "Panamá",
+    "abbreviation": "PAN",
+    "group": "L",
+    "category": "Team"
+  },
+  {
+    "id": "FWC_01",
+    "number": 1,
+    "name": "Mundial #01",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_02",
+    "number": 2,
+    "name": "Mundial #02",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_03",
+    "number": 3,
+    "name": "Mundial #03",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_04",
+    "number": 4,
+    "name": "Mundial #04",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_05",
+    "number": 5,
+    "name": "Mundial #05",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_06",
+    "number": 6,
+    "name": "Mundial #06",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_07",
+    "number": 7,
+    "name": "Mundial #07",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_08",
+    "number": 8,
+    "name": "Mundial #08",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_09",
+    "number": 9,
+    "name": "Mundial #09",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_10",
+    "number": 10,
+    "name": "Mundial #10",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_11",
+    "number": 11,
+    "name": "Mundial #11",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_12",
+    "number": 12,
+    "name": "Mundial #12",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_13",
+    "number": 13,
+    "name": "Mundial #13",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_14",
+    "number": 14,
+    "name": "Mundial #14",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_15",
+    "number": 15,
+    "name": "Mundial #15",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_16",
+    "number": 16,
+    "name": "Mundial #16",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_17",
+    "number": 17,
+    "name": "Mundial #17",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_18",
+    "number": 18,
+    "name": "Mundial #18",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "FWC_19",
+    "number": 19,
+    "name": "Mundial #19",
+    "team": "Mundial (FWC)",
+    "abbreviation": "FWC",
+    "group": null,
+    "category": "FWC"
+  },
+  {
+    "id": "EXTRA_01",
+    "number": 1,
+    "name": "Especial #01",
+    "team": "Especiais",
+    "abbreviation": "EXTRA",
+    "group": null,
+    "category": "Extra"
+  },
+  {
+    "id": "EXTRA_02",
+    "number": 2,
+    "name": "Especial #02",
+    "team": "Especiais",
+    "abbreviation": "EXTRA",
+    "group": null,
+    "category": "Extra"
+  },
+  {
+    "id": "EXTRA_03",
+    "number": 3,
+    "name": "Especial #03",
+    "team": "Especiais",
+    "abbreviation": "EXTRA",
+    "group": null,
+    "category": "Extra"
+  }
+]

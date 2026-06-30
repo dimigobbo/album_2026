@@ -34,10 +34,11 @@ export default function AlbumPage() {
   const extra = useMemo(() => catalog.filter((s) => s.category === "Extra"), [catalog]);
 
   const filteredTeams = useMemo(() => {
-    const q = search.trim().toLowerCase();
+    const normalize = (s) => s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    const q = normalize(search.trim());
     if (!q) return teams;
     return teams.filter(
-      (t) => t.team.toLowerCase().includes(q) || t.abbreviation.toLowerCase().includes(q)
+      (t) => normalize(t.team).includes(q) || normalize(t.abbreviation).includes(q)
     );
   }, [teams, search]);
 

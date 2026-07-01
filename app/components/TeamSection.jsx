@@ -17,19 +17,20 @@ export default function TeamSection({
   const complete = owned === stickers.length;
 
   return (
-    <div className="rounded-xl border border-stone-800 bg-stone-900/40">
+    <div className="rounded-xl border border-stone-200 bg-white dark:border-stone-800 dark:bg-stone-900/40">
       <button
         onClick={() => setOpen((v) => !v)}
         className="flex w-full items-center justify-between px-4 py-3 text-left"
       >
-        <p className="font-semibold text-stone-100">
-          {title} {subtitle && <span className="text-stone-500">({subtitle})</span>}
+        <p className="font-semibold text-stone-800 dark:text-stone-100">
+          {title}{" "}
+          {subtitle && <span className="text-stone-400 dark:text-stone-500">({subtitle})</span>}
         </p>
         <span className="flex items-center gap-3">
-          <span className={`text-sm ${complete ? "text-emerald-400" : "text-stone-400"}`}>
+          <span className={`text-sm ${complete ? "text-emerald-600 dark:text-emerald-400" : "text-stone-400"}`}>
             {owned}/{stickers.length}
           </span>
-          <span className="text-stone-500">{open ? "−" : "+"}</span>
+          <span className="text-stone-400">{open ? "−" : "+"}</span>
         </span>
       </button>
       {open && (

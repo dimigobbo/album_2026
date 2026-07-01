@@ -15,12 +15,14 @@ import {
   downloadFile,
   shareText,
 } from "@/lib/inventory";
+import { buildTradeUrl } from "@/lib/tradeLink";
 import Header from "../components/Header";
 
 export default function RelatoriosPage() {
   const { user, loading } = useAuth();
   const router = useRouter();
   const [inventory, setInventory] = useState(null);
+  const [tradeCopied, setTradeCopied] = useState(false);
 
   useEffect(() => {
     if (!loading && !user) router.replace("/login");
@@ -36,6 +38,18 @@ export default function RelatoriosPage() {
   const missing = useMemo(() => (inventory ? getMissing(inventory) : []), [inventory]);
   const duplicates = useMemo(() => (inventory ? getDuplicates(inventory) : []), [inventory]);
 
+  const handleTradeLink = async () => {
+    const url = buildTradeUrl(inventory, window.location.origin);
+    try {
+      await navigator.clipboard.writeText(url);
+      setTradeCopied(true);
+      setTimeout(() => setTradeCopied(false), 3000);
+    } catch {
+      // Fallback: abre numa nova aba se não conseguir copiar
+      window.open(url, "_blank");
+    }
+  };
+
   if (loading || !inventory) {
     return (
       <div className="flex min-h-screen items-center justify-center text-stone-400">
@@ -50,6 +64,27 @@ export default function RelatoriosPage() {
     <div className="pb-16">
       <Header totalOwned={totalOwned} totalStickers={catalog.length} />
       <main className="mx-auto max-w-3xl space-y-6 px-4 py-6">
+
+        {/* Banner de trocas */}
+        {duplicates.length > 0 && (
+          <div className="rounded-xl border border-amber-500/30 bg-amber-500/10 px-4 py-3 flex items-center justify-between gap-3">
+            <div>
+              <p className="text-sm font-semibold text-amber-300">
+                🔄 Você tem {duplicates.length} figurinhas repetidas
+              </p>
+              <p className="text-xs text-stone-400 mt-0.5">
+                Gere um link e mande para um amigo ver o que pode pegar
+              </p>
+            </div>
+            <button
+              onClick={handleTradeLink}
+              className="shrink-0 rounded-lg bg-amber-400 px-3 py-2 text-xs font-semibold text-amber-950 hover:bg-amber-300 transition"
+            >
+              {tradeCopied ? "✅ Copiado!" : "🔗 Gerar link"}
+            </button>
+          </div>
+        )}
+
         <ReportSection
           title="Faltam"
           color="text-rose-400"
@@ -107,9 +142,7 @@ function ReportSection({ title, color, list, emptyText, onExport, onShare }) {
               <ul className="mt-1 space-y-0.5 text-sm text-stone-300">
                 {items.map((s) => (
                   <li key={s.id} className="flex justify-between">
-                    <span>
-                      {s.id} — {s.name}
-                    </span>
+                    <span>{s.id} — {s.name}</span>
                     {s.extra ? <span className="text-amber-400">x{s.extra}</span> : null}
                   </li>
                 ))}

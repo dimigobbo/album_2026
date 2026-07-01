@@ -5,10 +5,10 @@ export default function StickerTile({ sticker, qty, onIncrement, onDecrement }) 
   const duplicate = qty > 1;
 
   const colorClasses = duplicate
-    ? "border-amber-400 bg-amber-400/15 text-amber-300"
+    ? "border-amber-400 bg-amber-400/15 text-amber-600 dark:text-amber-300"
     : owned
-    ? "border-emerald-400 bg-emerald-400/15 text-emerald-300"
-    : "border-stone-700 bg-stone-900 text-stone-500";
+    ? "border-emerald-400 bg-emerald-400/15 text-emerald-600 dark:text-emerald-300"
+    : "border-stone-200 bg-stone-50 text-stone-400 dark:border-stone-700 dark:bg-stone-900 dark:text-stone-500";
 
   return (
     <div className={`group relative aspect-square rounded-lg border text-xs font-medium transition ${colorClasses}`}>
@@ -23,7 +23,7 @@ export default function StickerTile({ sticker, qty, onIncrement, onDecrement }) 
       {qty > 0 && (
         <button
           onClick={() => onDecrement(sticker.id, qty)}
-          className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-stone-700 text-[10px] text-stone-200"
+          className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-stone-200 text-[10px] text-stone-700 dark:bg-stone-700 dark:text-stone-200"
           aria-label={`Remover uma unidade de ${sticker.id}`}
         >
           −

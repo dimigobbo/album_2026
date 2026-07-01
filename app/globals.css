@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  color-scheme: dark;
+/* Tema claro */
+:root {
+  --bg: theme('colors.stone.50');
+  --text: theme('colors.stone.900');
+}
+
+/* Tema escuro (padrão — classe .dark no <html>) */
+.dark {
+  --bg: theme('colors.stone.950');
+  --text: theme('colors.stone.100');
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.2s, color 0.2s;
 }

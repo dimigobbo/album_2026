@@ -24,15 +24,16 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center gap-6 px-6 text-center">
+    <div className="flex min-h-screen flex-col items-center justify-center gap-6 px-6 text-center bg-stone-50 dark:bg-stone-950">
       <div>
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-emerald-400">
+        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-emerald-600 dark:text-emerald-400">
           Copa do Mundo 2026
         </p>
-        <h1 className="mt-2 text-3xl font-bold">Meu Álbum de Figurinhas</h1>
-        <p className="mx-auto mt-3 max-w-sm text-stone-400">
-          Controle o que falta, organize as repetidas e compartilhe sua lista
-          de trocas em segundos.
+        <h1 className="mt-2 text-3xl font-bold text-stone-900 dark:text-stone-100">
+          Meu Álbum de Figurinhas
+        </h1>
+        <p className="mx-auto mt-3 max-w-sm text-stone-500 dark:text-stone-400">
+          Controle o que falta, organize as repetidas e compartilhe sua lista de trocas em segundos.
         </p>
       </div>
       <button
@@ -41,7 +42,7 @@ export default function LoginPage() {
       >
         Entrar com Google
       </button>
-      {error && <p className="text-sm text-rose-400">{error}</p>}
+      {error && <p className="text-sm text-rose-500">{error}</p>}
     </div>
   );
 }

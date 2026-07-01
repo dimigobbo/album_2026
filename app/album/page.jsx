@@ -2,13 +2,14 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import { doc, onSnapshot, setDoc } from "firebase/firestore";
+import { doc, onSnapshot, setDoc, updateDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 import { useAuth } from "@/context/AuthContext";
 import { getCatalog, getTeams } from "@/lib/catalog";
 import Header from "../components/Header";
 import TeamSection from "../components/TeamSection";
 import ImportModal from "../components/ImportModal";
+import ResetModal from "../components/ResetModal";
 
 export default function AlbumPage() {
   const { user, loading } = useAuth();
@@ -16,6 +17,7 @@ export default function AlbumPage() {
   const [inventory, setInventory] = useState(null);
   const [search, setSearch] = useState("");
   const [showImport, setShowImport] = useState(false);
+  const [showReset, setShowReset] = useState(false);
 
   useEffect(() => {
     if (!loading && !user) router.replace("/login");
@@ -47,22 +49,22 @@ export default function AlbumPage() {
   const updateQty = async (code, qty) => {
     if (!user) return;
     setInventory((prev) => ({ ...prev, [code]: qty }));
-    const { updateDoc } = await import("firebase/firestore");
     await updateDoc(doc(db, "users", user.uid), { [`inventory.${code}`]: qty });
   };
 
   const handleIncrement = (code, current) => updateQty(code, current + 1);
   const handleDecrement = (code, current) => updateQty(code, Math.max(0, current - 1));
 
-  // Grava o inventário completo de uma vez (usado na importação)
   const handleImportConfirm = async (newInventory) => {
     if (!user) return;
     setInventory(newInventory);
-    await setDoc(
-      doc(db, "users", user.uid),
-      { inventory: newInventory },
-      { merge: true }
-    );
+    await setDoc(doc(db, "users", user.uid), { inventory: newInventory }, { merge: true });
+  };
+
+  const handleReset = async () => {
+    if (!user) return;
+    setInventory({});
+    await setDoc(doc(db, "users", user.uid), { inventory: {} }, { merge: true });
   };
 
   if (loading || !inventory) {
@@ -80,7 +82,7 @@ export default function AlbumPage() {
       <Header totalOwned={totalOwned} totalStickers={catalog.length} />
       <main className="mx-auto max-w-3xl space-y-4 px-4 py-6">
 
-        {/* Barra de busca + botão de importação */}
+        {/* Barra de busca + ações */}
         <div className="flex gap-2">
           <input
             value={search}
@@ -90,10 +92,17 @@ export default function AlbumPage() {
           />
           <button
             onClick={() => setShowImport(true)}
-            className="rounded-lg border border-stone-700 bg-stone-900 px-3 py-2 text-sm text-stone-400 hover:border-emerald-400 hover:text-emerald-400 transition"
-            title="Importar lista de outro app"
+            className="rounded-lg border border-stone-700 bg-stone-900 px-3 py-2 text-sm text-stone-400 hover:border-emerald-400 hover:text-emerald-400 transition whitespace-nowrap"
+            title="Importar lista de faltantes"
           >
             ⬇ Importar
+          </button>
+          <button
+            onClick={() => setShowReset(true)}
+            className="rounded-lg border border-stone-700 bg-stone-900 px-3 py-2 text-sm text-stone-400 hover:border-rose-500 hover:text-rose-400 transition"
+            title="Zerar álbum"
+          >
+            🗑
           </button>
         </div>
 
@@ -137,6 +146,14 @@ export default function AlbumPage() {
           currentInventory={inventory}
           onConfirm={handleImportConfirm}
           onClose={() => setShowImport(false)}
+        />
+      )}
+
+      {showReset && (
+        <ResetModal
+          totalOwned={totalOwned}
+          onConfirm={handleReset}
+          onClose={() => setShowReset(false)}
         />
       )}
     </div>
